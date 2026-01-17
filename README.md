@@ -25,6 +25,10 @@ This project focuses on smooth scroll-based animations, parallax effects, and mo
 
 ----
 
+## 🎥 Demo
+
+![Demo](https://github.com/Hrushi0316/Fanta-clone/blob/45c078cc08b1b8e2818ec90fa10b703f0e6d6185/Screen%20Recording%202026-01-17%20103026.mp4)
+
 ## 📚 What I Learned
 
 - Implementing scroll-triggered animations using GSAP
